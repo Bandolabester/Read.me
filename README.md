@@ -1,7 +1,7 @@
 # Read.me
 Magandang araw sa po sa lahat. Ngayon ay aming ipiprisinta ang aming nagawang java project about Unified Modeling Language.
 
-package umlClassDiagram;//Gumawa kami ng package-info.java sa source file na Midterm   
+package umlClassDiagram;//Gumawa kami ng package-info.java sa source file na   
                           Project/src
 import java.io.*;//import java.io.* statement tells the compiler where to look for 
                    the external classes you use in your code. It needs to find them 
